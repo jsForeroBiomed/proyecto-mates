@@ -1,6 +1,6 @@
 # Nuestro cliente es el mejor
 
-Esto es un fichero muy chimba.
+Esto es un fichero muy chimba. Estos son unos cambios que se aplicarán que se aplicarán con rebase. 
 
 Hola, esto es un fichero de lectura para nuestro repositoriooooo :( :)
 
