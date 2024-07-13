@@ -1,1 +1,1 @@
-Esto será un fichero random pero ya lo acabé ahora sí jajaja :)
+Esto será un fichero random. El cliente ya puede seguir utilizando nuestro proyecto de mates.
