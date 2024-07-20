@@ -1,3 +1,5 @@
 Esto será un fichero random. El cliente ya puede seguir utilizando nuestro proyecto de mates. Esto será mi primer commit. Este es mi segundo commit. Estos serán mis cambios para el pull request. 
 
-Y además nuestro proyecto ya cuenta con GitHub Pages :)
+Actualización del README
+
+Este fichero tiene como objetivo mostrar la explicación del presente repositorio. 
